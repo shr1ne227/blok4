@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П18 З1 Деление на ноль" type="Application" factoryName="Application" folderName="Практика 18">
+    <option name="MAIN_CLASS_NAME" value="practice18.task1.Exception1" />
+    <module name="blok4" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

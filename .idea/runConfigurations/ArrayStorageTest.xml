@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П21 З2 Хранение массива" type="Application" factoryName="Application" folderName="Практика 21">
+    <option name="MAIN_CLASS_NAME" value="practice21.task2.ArrayStorageTest" />
+    <module name="blok4" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
